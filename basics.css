@@ -1,0 +1,46 @@
+.content {
+    font-size: 14px;
+    color: #ffeead;
+    
+}
+.content p{max-width:250px;}
+
+.pic{padding: 10px;}
+
+.container > div {padding:20px;
+}
+
+.header p{text-align: end;
+          margin:-5px;
+          
+}
+.footer p{text-align: end;
+  margin:5px;
+}
+
+.footer {
+  color: #b8b8b8;
+}
+
+html, body {
+  background-color: #ffeead;
+  margin: 10px;
+  font-size: 16px;
+  color: #ffeead;
+}
+
+.container > div:nth-child(1n) {
+  background-color: #b8b8b8;	
+}
+
+.container > div:nth-child(3n) {
+  background-color: #b8b8b8;
+}
+
+.container > div:nth-child(2n) {
+  background-color: #b8b8b8;
+}
+
+.container > div:nth-child(4n) {
+  background-color: #b8b8b8;
+}
